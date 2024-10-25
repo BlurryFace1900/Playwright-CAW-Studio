@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bob",
+        "age": 20,
+        "gender": "male",
+        "address" : {
+            "city": "Mountain View",
+            "state": "California",
+            "country": "USA"
+        },
+        "hobbies": ["reading", "painting", "hiking"],
+        "eligible": true
+    },
+    {
+        "name": "George",
+        "age": 42,
+        "gender": "male",
+        "address" : {
+            "city": "Mountain View",
+            "state": "California",
+            "country": "USA"
+        },
+        "hobbies": ["reading", "cooking"],
+        "eligible": true
+    },
+    {
+        "name": "Sara",
+        "age": 42,
+        "gender": "female",
+        "address" : {
+            "city": "London",
+            "state": "",
+            "country": "UK"
+        },
+        "hobbies": ["shooting"],
+        "eligible": false
+    },
+    {
+        "name": "Conor",
+        "age": 40,
+        "gender": "male",
+        "address" : {
+            "city": "Paris",
+            "state": "Paris",
+            "country": "France"
+        },
+        "hobbies": [],
+        "eligible": true
+    },
+    {
+        "name": "Jennifer",
+        "age": 42,
+        "gender": "female",
+        "address" : {
+            "city": "Mountain NoView",
+            "state": "Hamburg",
+            "country": "Germany"
+        },
+        "hobbies": ["reading", "painting", "hiking"],
+        "eligible": false
+    }
+]
